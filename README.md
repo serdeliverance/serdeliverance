@@ -1,7 +1,7 @@
 ### Hi, I'm Sergio :wave:
 
 I define myself as a software engineer that loves solving problems and delivering high quality software. I like challenges, working with amazing people and I have a strong commitment to develiring value to the business and self improvement.
-Nowadays, I'm mainly focused on Scala, Akka and FP related technologies but I also try to play with React and Typescript from time to time.
+Nowadays, I'm mainly focused on Scala, Akka and FP related technologies.
 
 You can find me on:
  * [LinkedIn](https://www.linkedin.com/in/sergio-cano-2baa4257/)
