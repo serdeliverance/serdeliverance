@@ -1,7 +1,8 @@
 ### Hi, I'm Sergio :wave:
 
-I define myself as a software engineer that loves solving problems and delivering high quality software. I like challenges, working with amazing people and I have a strong commitment to develiring value and self improvement.
-Nowadays, I'm mainly focused on fullstack development using Scala and Akka/Play with React.
+I'm a Fullstack engineer that love solving problems and learning new stuff. Most of my experience is based on JVM related technologies (such as Java/Spring or Scala/Akka/Play), but I sometimes do some front end stuff (Angular/React).
+
+I’m very interested in functional programming and concurrency. Because of that, I’m having fun trying to incorporate some reactive streams and functional programming ideas when solving problems wherever them make sense to the business.
 
 ### Social networks and others
 You can find me on:
