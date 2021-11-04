@@ -1,8 +1,8 @@
-### Hi, I'm Sergio :wave:
+### Hi, I'm Sergio
 
-I'm a Fullstack engineer that love solving problems and learning new stuff. Most of my experience is based on JVM related technologies (such as Java/Spring or Scala/Akka/Play), but I sometimes do some front end stuff (Angular/React).
+I'm a Fullstack engineer that enjoy solving problems and learning new stuff. Most of my experience is based on JVM related technologies (such as Java/Spring or Scala/Akka/Play). I sometimes do some front end stuff with React.
 
-I’m interested in functional programming and concurrency. Because of that, I’m having fun trying to incorporate some reactive streams and functional programming ideas when solving problems wherever them make sense to the business.
+I’m mainly interested in functional programming and concurrency. Because of that, I always try to incorporate some reactive streams and functional programming ideas when solving problems to deliver value to the business.
 
 ### Social networks and others
 You can find me on:
@@ -11,4 +11,4 @@ You can find me on:
 And also, you can check my blog:
  * [Personal Blog](https://serdeliverance.github.io/blog/)
 
-I'll really appreciate your feedback.
+I'll appreciate your feedback.
