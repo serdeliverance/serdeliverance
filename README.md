@@ -4,7 +4,6 @@ Seasoned Fullstack Engineer stronger on backend. Most of my experience is based 
 
 My geek interests are Functional Programming, Reactive Programming and Distributed Systems.
 
-### Social networks and others
 You can find me on:
  * [LinkedIn](https://www.linkedin.com/in/sergio-cano-2baa4257/)
 
