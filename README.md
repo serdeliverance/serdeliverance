@@ -1,6 +1,6 @@
 ### Hi, I'm Sergio
 
-Fullstack Engineer stronger on backend. Most of my experience is based on JVM related technologies (Scala and Java). Also, I'm familiar with Javascript ecosystem (mainly Typescript, Node, Nestjs, React and Nextjs). My approach is to always use the right tool for the job and being pragmatic/delivery focused.
+Fullstack Engineer stronger on backend. Most of my experience is based on JVM related technologies (Scala and Java).
 
 My geek interests are Functional Programming and Distributed Systems.
 
