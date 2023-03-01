@@ -1,10 +1,8 @@
 ### Hi, I'm Sergio
 
-Fullstack Engineer stronger on backend. Most of my experience is based on JVM related technologies (Scala and Java).
+Fullstack Engineer stronger on backend. I have experience working with different stacks (Java, Spring, Scala, Akka/Cats, Node, React, Nextjs and Typescript).
 
-My geek interests are Functional Programming, Distributed Systems and building amazing products.
-
-This set of repositories contains mostly ideas, pocs and playgrounds (because, at the of the day, I really enjoy coding).
+When I have time, I use to work on side projects for personal tooling.
 
 Pinned repos are the ones I consider good enough to validate my background and tech skills.
 
